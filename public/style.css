@@ -1,0 +1,18 @@
+body{
+    background-color:  rgb(148, 24, 24);
+}
+
+h1 {
+
+    position: relative;
+    text-align: center;
+    color: white;
+    background-color:  rgb(148, 24, 24);
+    margin-top: 0 auto;
+}
+.card{
+    position: relative;
+    /* text-align: center; */
+    background-image: url('background.jpg');
+
+}
